@@ -43,7 +43,7 @@ MoneyMap is a simple, lightweight expense tracking app built with Flutter. It he
 1. **Clone the repo:**
 
    ```bash
-   git clone https://github.com/yourusername/moneymap.git
+   git clone https://github.com/iampranavk/moneymap.git
    cd moneymap
 
 2. **Install dependencies:**
